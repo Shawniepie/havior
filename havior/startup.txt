@@ -1,0 +1,12 @@
+*title idfk
+
+*scene_list
+    startup
+    scene1
+    scene2
+    
+*create age 0
+*create money 0
+*create agility 0
+
+*finish

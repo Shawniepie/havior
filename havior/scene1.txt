@@ -1,0 +1,16 @@
+[i]"Wait one Crossroads."[/i]
+
+You turn off the radio, letting its buzz die down. It's an older model, a RT-1523E-whatever, but since you are a reservist, it's what you have to use. They were due to issue you the "new" radios next week, ones that are the same model, but with a new paint job. Probably some Department of Defense scheme to help a General's half-brother with a new business he decided to start.
+
+You hear some shuffling from behind you, and quickly turn around to meet it's source. Raising, your rifle-
+
+*page_break
+-you come face to face with someone from your platoon. Private Garcia, is not exactly from your squad, but has been tagging along with it for the past week now under orders from platoon command. He's originally from Baja but immigrated and joined the Corp when he was 19. He's short, being 5' 3", lanky, and goddamn sneaky.
+
+He laughs, "Eh, I didn't scare you too much sarge did I?" 
+
+*choice
+    #Oh, not that much.
+        "Why's your gun up then my friend? It's no matter anyway, because look what I got for us?
+        
+        He pulls out a near magical thing from his bag. A new radio, a brand new one at that. And not just a one with a fresh new coat of paint, this one seems freshly made.
